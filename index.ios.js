@@ -20,7 +20,7 @@ class CPICWorkshop extends Component {
           Welcome to React Native!
         </Text>
         <Text style={styles.instructions}>
-          To get started, edit index.ios.js
+          看到这个页面，说明你的环境已准备完毕
         </Text>
         <Text style={styles.instructions}>
           Press Cmd+R to reload,{'\n'}
