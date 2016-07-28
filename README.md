@@ -39,4 +39,10 @@ react-native run-android
 我们建议使用Webstorm作为我们的默认IDE
 https://www.jetbrains.com/webstorm/
 
+参考文档（英文）：
+https://facebook.github.io/react-native/docs/getting-started.html#content
+
+参考文档（中文）：
+
+http://reactnative.cn/docs/0.30/getting-started.html
 
