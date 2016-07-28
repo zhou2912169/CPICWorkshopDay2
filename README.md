@@ -40,6 +40,7 @@ react-native run-android
 https://www.jetbrains.com/webstorm/
 
 参考文档（英文）：
+
 https://facebook.github.io/react-native/docs/getting-started.html#content
 
 参考文档（中文）：
