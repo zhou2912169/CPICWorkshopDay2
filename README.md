@@ -19,12 +19,24 @@ git clone https://github.com/lingoer/CPICWorkshop.git
 ```
 
 #### 在模拟器中运行Demo
-对于iOS，需要安装Xcode，对于Android需要安装Android Studio并配置好模拟器
+对于iOS，需要安装Xcode
+
+对于Android需要准备以下环境: 
+
+* Android Studio
+* SDK 23
+* build tools 23.0.1
+* 模拟器
+
 ```bash
 cd CPICWorkshop
 react-native run-ios
 #或者
 react-native run-android
 ```
+
+#### IDE
+我们建议使用Webstorm作为我们的默认IDE
+https://www.jetbrains.com/webstorm/
 
 
