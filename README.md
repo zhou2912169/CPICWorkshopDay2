@@ -2,9 +2,13 @@
 
 设计图和标注图都在 `screenshot` 文件夹中
 
-`design.png` 为设计图，`annotated.png` 为标注图。
+设计图
 
+![img](https://raw.githubusercontent.com/lingoer/CPICWorkshopDay2/master/screenshot/design.png)
 
+标注图。
+
+![img](https://raw.githubusercontent.com/lingoer/CPICWorkshopDay2/master/screenshot/annotated.png)
 
 
 
