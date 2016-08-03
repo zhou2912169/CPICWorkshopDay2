@@ -6,9 +6,15 @@
 
 ![img](https://raw.githubusercontent.com/lingoer/CPICWorkshopDay2/master/screenshot/d.png)
 
-标注图。
+标注图(不用100%按照标注，只要看着差不多就可以)
 
 ![img](https://raw.githubusercontent.com/lingoer/CPICWorkshopDay2/master/screenshot/a.png)
+
+
+
+其中用到的图标都在 `icons` 目录下，有兴趣的同学可以尝试集成 https://github.com/oblador/react-native-vector-icons
+
+
 
 
 
