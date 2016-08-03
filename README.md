@@ -16,6 +16,32 @@
 
 
 
+在设计到头像的时候大家可以直接用这个地址：
+
+
+
+`http://lorempixel.com/{width}/{height}/cats/`
+
+
+
+比如 http://lorempixel.com/100/100/cats/
+
+![img](http://lorempixel.com/100/100/cats/)
+
+![img](http://lorempixel.com/100/100/cats/)
+
+![img](http://lorempixel.com/100/100/cats/)
+
+![img](http://lorempixel.com/100/100/cats/)
+
+![img](http://lorempixel.com/100/100/cats/)
+
+![img](http://lorempixel.com/100/100/cats/)
+
+
+
+
+
 
 
 
