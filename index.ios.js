@@ -16,16 +16,9 @@ class CPICWorkshop extends Component {
   render() {
     return (
       <View style={styles.container}>
-        <Text style={styles.welcome}>
-          Welcome to React Native!
-        </Text>
-        <Text style={styles.instructions}>
-          看到这个页面，说明你的环境已准备完毕
-        </Text>
-        <Text style={styles.instructions}>
-          Press Cmd+R to reload,{'\n'}
-          Cmd+D or shake for dev menu
-        </Text>
+        <View style={styles.twitterCard}>
+
+        </View>
       </View>
     );
   }
@@ -34,19 +27,14 @@ class CPICWorkshop extends Component {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    justifyContent: 'center',
-    alignItems: 'center',
-    backgroundColor: '#F5FCFF',
+    backgroundColor: '#333333',
   },
-  welcome: {
-    fontSize: 20,
-    textAlign: 'center',
-    margin: 10,
-  },
-  instructions: {
-    textAlign: 'center',
-    color: '#333333',
-    marginBottom: 5,
+  twitterCard: {
+    flex: 1,
+    marginVertical: 20,
+    marginHorizontal: 5,
+    borderRadius: 5,
+    backgroundColor: 'white',
   },
 });
 
