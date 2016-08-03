@@ -4,11 +4,11 @@
 
 设计图
 
-![img](https://raw.githubusercontent.com/lingoer/CPICWorkshopDay2/master/screenshot/design.png)
+![img](https://raw.githubusercontent.com/lingoer/CPICWorkshopDay2/master/screenshot/d.png)
 
 标注图。
 
-![img](https://raw.githubusercontent.com/lingoer/CPICWorkshopDay2/master/screenshot/annotated.png)
+![img](https://raw.githubusercontent.com/lingoer/CPICWorkshopDay2/master/screenshot/a.png)
 
 
 
