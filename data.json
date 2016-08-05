@@ -1,0 +1,72 @@
+[{
+  "user": {
+    "id": "E122955D-00B7-433C-944D-939539B17945",
+    "avatar": "https://unsplash.it/200/200/?random&avatar",
+    "handler": "@reactjs",
+    "name": "React"
+  },
+  "isFollowing": false,
+  "text": "We just shipped v15.3.0 with React.PureComponent & react-test-renderer! (docs coming soon) ",
+  "previewBox": {
+    "bigTitle":"Full changelog:",
+    "image": "https://unsplash.it/200/200/?random&preview",
+    "title": "facebook/react",
+    "description": "react - A declarative, efficient, and flexible Javascript library for building user interfaces.",
+    "link": "github.com"
+  },
+  "activities": {
+    "Retweet": 357,
+    "Likes": 461,
+    "users": [{
+      "id": "15A12A87-672C-4FF4-AE70-863C3E363051",
+      "name": "Kyle",
+      "avatar": "https://unsplash.it/200/200/?random&kyle"
+    }, {
+      "id": "2D064BF8-01FE-4002-B6DC-5226815F83A0",
+      "name": "KyleB",
+      "avatar": "https://unsplash.it/200/200/?random&kyleb"
+    }, {
+      "id": "68BA6BBB-31AC-4614-8176-705BC8E4FFF1",
+      "name": "KyleC",
+      "avatar": "https://unsplash.it/200/200/?random&kylec"
+    }, {
+      "id": "9DB43AE2-6F33-4737-98E0-472D4EB7DE87",
+      "name": "KyleD",
+      "avatar": "https://unsplash.it/200/200/?random&kyleD"
+    }, {
+      "id": "F006BAC6-2994-4A8C-8DFE-DF98E5B3FF51",
+      "name": "KyleE",
+      "avatar": "https://unsplash.it/200/200/?random&kylee"
+    }, {
+      "id": "8A503F84-1A5A-4AC1-BD9D-91C40ECB451E",
+      "name": "KyleF",
+      "avatar": "https://unsplash.it/200/200/?random&kylef"
+    }]
+  },
+  "createdAt": "2016-08-04T00:43:29.446Z"
+}, {
+  "user": {
+    "id": "EFDEFC36-7223-4195-9D05-1E36F8776942",
+    "avatar": "https://unsplash.it/200/200/?random&avatar2",
+    "handler": "testinglooooonghandlers",
+    "name": "ReactingForEverandEverAndEver"
+  },
+  "isFollowing": true,
+  "text": "We just shipped v15.3.0 with React.PureComponent & react-test-renderer! (docs coming soon) \n\n Full changelog, We just shipped v15.3.0 with React.PureComponent & react-test-renderer! (docs coming soon) \n\n Full changelog, We just shipped v15.3.0 with React.PureComponent & react-test-renderer! (docs coming soon) \n\n Full changelog:",
+  "previewBox": {
+    "image": "https://unsplash.it/200/200/?random&preview2",
+    "title": "facebook/react and some other stuffs as well",
+    "description": "react - A declarative, efficient, and flexible Javascript library for building user interfaces. react - A declarative, efficient, and flexible Javascript library for building user interfaces.",
+    "link": "github.com/EFDEFC36-7223-4195-9D05-1E36F8776942"
+  },
+  "activities": {
+    "Retweet": 9999,
+    "Likes": 0,
+    "users": [{
+      "id": "93E032A0-DE73-4DF0-A8B8-85FF56B89B30",
+      "name": "Kyle",
+      "avatar": "https://unsplash.it/200/200/?random&kyle2"
+    }]
+  },
+  "createdAt": "1970-08-04T00:43:29.446Z"
+}]
